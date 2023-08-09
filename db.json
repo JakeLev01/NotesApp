@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "body": "This is a new note\n\nthis is the content of the note\nHello this is part of a new note\nI do not understand why this is not working",
+      "updated": "2023-06-01T22:13:37.971Z",
+      "id": 1
+    },
+    {
+      "body": "I am writing a new ntoe to test some functionality of this program",
+      "updated": "2023-06-01T22:15:34.348Z",
+      "id": 2
+    }
+  ]
+}
